@@ -1,0 +1,387 @@
+.buttonMove
+{
+    margin-left: 42.5em;
+}
+.menBasketballText
+{
+    margin-left: 0.5em;
+    font-size: 1.5em;
+}
+.menBasketballText2
+{
+     margin-left: 13em;
+    font-size: 1.5em;
+}
+.menBasketballFun{
+     
+}
+
+.menBasketballCoach
+{
+  
+}
+.menBasketballLogo
+{
+}
+#fontColour
+{
+    background-color: white;
+    color: red;
+}
+
+footer
+{
+    margin-left: 22em;
+}
+
+#fontColor:hover {
+  background-color: red;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0.9em 1em;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+html, body {
+    width: 60em;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 100%;
+}
+.clubLogo
+{
+    float: left;
+    margin-right: 10px; 
+    height:5em; 
+    width: 18.4375em;
+}
+#clubPic
+{
+    width:18em;
+    height:10em;
+
+}
+#clubPicMBasketball
+{
+    max-width:100%;
+    height:auto;
+    
+        margin-top: 4.4em;
+
+}
+#clubPicLBasketball
+{
+    max-width:100%;
+
+    margin-top: 6.6em;
+    margin-left: 4em;
+
+}
+#clubPicCricket
+{
+     max-width:100%;
+    height:auto;
+    height:10em;
+    
+
+}
+#clubPicFencing
+{
+    width:18em;
+    height:10em;
+        margin-top: 3em;
+
+
+}
+#clubMargin
+{
+ width: 30em;
+  padding: 0em;
+  margin: em;
+}
+
+#full
+{
+    font-size: 0.8em;
+        color: red;
+
+}
+article h1 {
+	padding:0.3125em;
+	border-left:0.3125em solid #333;    
+}
+article {
+  padding:0.3125em;
+  display:inline-block;
+}
+#club {
+    
+    width:18.125em;
+    vertical-align:top;
+    
+}
+.sb {
+    float: left;
+    width: 25%;
+    margin-left: -75%;
+  }
+ .main {
+    width: 50%;
+    margin-left: 25%;
+    float: left;
+    padding: 0 1em;
+  }
+.sb-2 {
+    float: right;
+    width: 25%;
+}
+article:hover
+{
+    background-color: grey;
+}
+#readMore
+{
+  width: 6em;
+  border: .2em solid black;
+  padding: 0.625em;
+  margin: 1.25em;
+    height: 1em;
+}
+p a:hover {
+  color: red;
+
+}
+a
+{
+            text-decoration: none;
+    
+
+}
+
+
+
+
+@media (max-width: 48em)
+{
+    .buttonMove
+{
+    margin-left: 36.3em;
+}
+     .menBasketballText
+{
+    margin-left: 0.5em;
+    font-size: 1em;
+}
+        .menBasketballText2
+{
+    margin-left: 13em;
+    font-size: 1.2em;
+    }
+   .menBasketballFun
+    {
+        width: 42em;
+        height: 20em;
+        margin-left:1em;
+    }
+    .menBasketballCoach
+{
+    width: 42em;
+        height: 20em;
+        margin-left:1em;
+}
+    .menBasketballLogo
+{
+ width: 42em;
+        height: 20em;
+        margin-left:1em;
+}
+    footer{
+    margin-left: -12em;
+    }
+    h1{
+        font-size: 1.4em;
+        
+    }
+    .titleTexts{
+        font-size: 0.6em;
+        margin-top: 1em;
+        margin-left: 0.5em;
+    }
+    .clubLogo{
+        width: 12em;
+    }
+    body
+    {
+        background-color: green;
+    }
+      #club {
+    
+    width:25.125em;
+    vertical-align:top;
+    
+}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 36em)
+{
+        .buttonMove
+{
+    margin-left: 25.5em;
+}
+    .menBasketballText
+{
+    margin-left: 0.5em;
+    font-size: 0.72em;
+}
+        .menBasketballText2
+{
+    margin-left: 7em;
+    font-size: 1.2em;
+}
+    .menBasketballFun{
+      height: 20em;
+        width: 28em;
+    
+    }
+    .menBasketballCoach
+{
+       height: 20em;
+        width: 28em;
+}
+   .menBasketballLogo
+{
+     height: 20em;
+        width: 28em;
+}
+    .footer{
+                margin-left: -41em;
+
+    }
+    .titleTexts{
+        font-size: 0.75em;
+        margin-top: 1.7em;
+        margin-left: 0.4em;
+    }
+    .clubLogo{
+        width: 9.3em;
+    }
+    h1
+    {
+        font-size: 1.2em;
+    }
+    body
+    {
+        background-color: red;
+        
+    }
+      #club {
+    
+    width:30.125em;
+    vertical-align:top;
+    
+}
+    #clubPicFencing
+{
+    width:20em;
+    height:13em;
+        margin-top:1em;
+margin-left: 5em;
+
+}
+    
+  #clubPicCricket
+{
+     max-width:100%;
+    height:auto;
+    height:10em;
+    margin-left: 5em;
+
+}  
+    
+        #clubPicLBasketball
+{
+    width:20em;
+    height:auto;
+
+    height:19.5em; 
+    margin-top: 6.6em;
+    margin-left: 4em;
+
+}
+    
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 20em)
+{
+    body
+    {
+        background-color: blue;
+    }
+    #club {
+    
+    width:30.125em;
+    vertical-align:top;
+    
+}
+    
+    #clubPicFencing
+{
+    width:20em;
+    height:13em;
+        margin-top:1em;
+margin-left: 5em;
+
+}
+        
+  #clubPicCricket
+{
+     max-width:100%;
+    height:auto;
+    height:10em;
+    margin-left: 5em;
+
+} 
+    
+        #clubPicLBasketball
+{
+    width:20em;
+    height:auto;
+
+    height:19.5em; 
+    margin-top: 6.6em;
+    margin-left: 4em;
+
+}
+}
